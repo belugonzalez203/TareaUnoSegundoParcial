@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SerieDeNumeros
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Serie1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=parametro
+comment1.target=long\ serie1(int)
+comment2.params=parametro
+comment2.target=long\ sucesionPadovan(int)
+numComments=3
